@@ -1,0 +1,18 @@
+# Machine Learning and Data Processing Libraries
+tensorflow>=2.0.0
+numpy>=1.18.0
+scikit-learn>=0.22.0
+
+# For working with JSON
+jsonschema>=4.0.0  # Optional, for JSON validation if needed
+
+# For date and time manipulation (datetime is built-in)
+# You might not need this, but it's useful for date calculations
+pandas>=1.0.0  # Optional, for easier date manipulations and handling
+
+# For any additional utilities (optional)
+matplotlib>=3.0.0  # Optional, for data visualization if needed
+
+# Randomness and predictions
+random2>=1.0.0  # Optional, to have a better random number generator if needed
+
